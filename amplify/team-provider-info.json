@@ -10,6 +10,11 @@
       "StackName": "amplify-redditclone-dev-80553",
       "StackId": "arn:aws:cloudformation:us-east-1:719755536737:stack/amplify-redditclone-dev-80553/79367260-2cef-11ec-b5ae-12654f654f53",
       "AmplifyAppId": "d2oy3sefr7841m"
+    },
+    "categories": {
+      "auth": {
+        "redditclone2c244dbc": {}
+      }
     }
   }
 }
